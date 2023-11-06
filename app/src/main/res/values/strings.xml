@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyportFolio</string>
+    <string name="name">Name</string>
+    <string name="designation">Designation</string>
+    <string name="todo">TODO</string>
+    <string name="vishal_gupta">Vishal Gupta</string>
+    <string name="aspring_software_engineer_and_app_developer">Aspring Software Engineer and App Developer</string>
+    <string name="aspiring_software_engineer">Aspiring Software Engineer</string>
+    <string name="skills">Skills</string>
+    <string name="education">Education</string>
+</resources>
